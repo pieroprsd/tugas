@@ -13,4 +13,4 @@
 ![gambar 3](screenshoot/4.png)
 
 - gambar 5
-![gambar 5](screenschoot/5.png)
+![gambar 5](screenshoot/5.png)
