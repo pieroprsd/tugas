@@ -8,3 +8,6 @@
 
 - gambar 2
 ![gamba 2](screenshoot/2.png)
+
+- gambar 4
+![gambar 3](screenshoot/4.png)
